@@ -1,0 +1,31 @@
+{
+  "name": "@folee-lin-ui-vue/components",
+  "version": "0.0.0",
+  "description": "all components are settled here",
+  "author": "LeeSamFong <597171538@qq.com>",
+  "homepage": "https://github.com/LeeSamFong/lin-ui-vue#readme",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeSamFong/lin-ui-vue.git"
+  },
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/LeeSamFong/lin-ui-vue/issues"
+  },
+  "peerDependencies": {
+    "vue": "^3.2.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "vue": "^3.2.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "not ie 11",
+    "not op_mini all"
+  ]
+}
